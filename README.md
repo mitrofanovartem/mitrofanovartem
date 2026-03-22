@@ -1,6 +1,6 @@
 # Hi, I'm Artem Mitrofanov
 
-Beginner backend developer focused on Kotlin and Java.
+Beginner backend developer focused on Kotlin,Java and C#.
 
 ## About me
 
@@ -8,8 +8,6 @@ Beginner backend developer focused on Kotlin and Java.
 - Interested in REST API, databases, and backend architecture
 - Currently building pet projects with PostgreSQL, Swagger, and Docker
 - Looking for internship / junior backend opportunities
-
-## Tech stack
 
 ## Tech stack
 
