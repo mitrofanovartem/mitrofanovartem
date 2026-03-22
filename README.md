@@ -1,13 +1,13 @@
 # Hi, I'm Artem Mitrofanov
 
-Beginner backend developer focused on Kotlin,Java and C#.
+Backend developer | Kotlin, Java, C#
 
 ## About me
 
-- Backend development: Kotlin, Java, Spring Boot ,C#
-- Interested in REST API, databases, and backend architecture
-- Currently building pet projects with PostgreSQL, Swagger, and Docker
-- Looking for internship / junior backend opportunities
+• Backend development with Kotlin, Java and C#
+• Building REST APIs and working with databases
+• Experience with PostgreSQL, Swagger and Docker
+• Open to internship / junior backend opportunities
 
 ## Tech stack
 
